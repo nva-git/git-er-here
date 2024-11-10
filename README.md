@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there. 
 
-## GSSOC(24) Badges 🪶
+I am zek, a noob programmer learning the ropes of creating websites and custom Discord bots. Recently, I completed an API fundamentals challenge with Postman through GSSoC.
+
+## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
