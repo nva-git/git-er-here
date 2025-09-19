@@ -1,5 +1,5 @@
 ## Hi there. 
 
-I am Navya!
+I am N!
 
-I'm learning Python, C++, and Rust. I am excited to contribute in a bunch of open source projects and maybe build some cool stuff along the way :) 
+I know its and bits of Python, Web Tech and C++. I made this account to contribute to open source projects (still figuring out); to showcase my non existing skills; and to build some cool stuff along the way :) 
